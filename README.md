@@ -11,5 +11,11 @@ This repository contains Jupyter notebooks that use neural networks to learn arb
 
 ![Alt text](images/PythonLambdaResults.png?raw=true "")
 
+<p>
+  
+Warren S. Sarle, SAS Institute Inc., Cary, NC, USA,  ftp://ftp.sas.com/pub/neural/dojo/dojo.html
+
+<i>"The benchmark data sets used by neural net and machine learning researchers tend to have many inputs, either no noise or lots of noise, and little to moderate nonlinearity. A very different set of benchmarks has become popular in the statistical literature based on several articles by Donoho and Johnstone (1994; 1995; Donoho, Johnstone, Kerkyacharian, and Picard 1995)...",</i>
+
 ![Alt text](images/DonohoJohnstoneBenchmarks.png?raw=true "")
 
