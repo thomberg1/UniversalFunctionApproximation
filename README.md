@@ -10,3 +10,6 @@ Kurt Hornik (1991),  “Approximation Capabilities of Multilayer Feedforward Net
 This repository contains Jupyter notebooks that use neural networks to learn arbitrary Python lambda expressions and WaveLets.
 
 ![Alt text](images/PythonLambdaResults.png?raw=true "")
+
+![Alt text](images/DonohoJohnstoneBenchmarks.png?raw=true "")
+
